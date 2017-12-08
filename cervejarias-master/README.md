@@ -1,5 +1,7 @@
-# cervejarias
+# Os países com as cervejas mais fortes de mundo
 
-Fonte original
+Polônia lidera o ranking de países com cervejas de maior teor alcoólico médio.
 
-https://github.com/brewdega/open-beer-database-dumps 
+![Gráfico 1](grafico-paises-teor.png)  
+
+### [Fonte original](https://github.com/brewdega/open-beer-database-dumps)

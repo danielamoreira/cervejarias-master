@@ -1,0 +1,3 @@
+select country, city, count(city) as total_por_cidades from principal
+group by city
+order by total_por_cidades desc

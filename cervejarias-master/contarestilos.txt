@@ -1,0 +1,4 @@
+select style_name, count(style_name) as total_por_estilo from principal
+group by style_name
+order by total_por_estilo desc
+limit 10

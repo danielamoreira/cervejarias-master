@@ -1,0 +1,4 @@
+select country, avg(abv) as media from principal
+where country in("Germany", "Belgium", "United Kingdom","Canada")
+group by country
+order by media desc

@@ -1,0 +1,2 @@
+select country, count(country) as total_por_pais from ale_ita
+group by country
